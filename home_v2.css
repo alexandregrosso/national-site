@@ -1,4 +1,4 @@
-/* GENERAL */
+/* This stylesheet controls the layout, colors, images, and responsive design for the entire website. */
 * {
     margin: 0;
     padding: 0;
@@ -218,6 +218,7 @@ a.landing:hover {
     overflow: hidden;
     box-shadow: 0 6px 18px rgba(0,0,0,0.25);
 }
+
 
 
 
