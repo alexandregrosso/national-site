@@ -199,6 +199,26 @@ a.landing:hover {
         gap: 12px;
     }
 }
+/* MAP SECTION */
+.map-section {
+    width: 90%;
+    max-width: 900px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.map-title {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.map-container {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+}
+
 
 
 
